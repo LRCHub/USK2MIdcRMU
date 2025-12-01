@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "HandClap",
+  "base_artist": "Fitz and The Tantrums",
+  "createdAt": "2025-12-01T12:10:23.790262Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mowgli's Road (Phenomenal Handclap Band Remix)",
+      "artist": "MARINA",
+      "has_synced": false,
+      "path": "select/01_Mowgli's_Road_(Phenomenal_Handclap_Band_Remix)_MARINA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mowgli's Road (Phenomenal Handclap Band Remix)",
+      "artist": "Marina & the Diamonds",
+      "has_synced": false,
+      "path": "select/02_Mowgli's_Road_(Phenomenal_Handclap_Band_Remix)_Marina_&_the_Diamonds.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HandClap",
+      "artist": "Fitz and The Tantrums",
+      "has_synced": true,
+      "path": "select/03_HandClap_Fitz_and_The_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HandClap",
+      "artist": "Fitz And The Tantrums",
+      "has_synced": true,
+      "path": "select/04_HandClap_Fitz_And_The_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HandClap",
+      "artist": "Fitz and the Tantrums",
+      "has_synced": true,
+      "path": "select/05_HandClap_Fitz_and_the_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HandClap",
+      "artist": "Fitz And The Tantrums",
+      "has_synced": true,
+      "path": "select/06_HandClap_Fitz_And_The_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HandClap",
+      "artist": "Fitz and The Tantrums",
+      "has_synced": true,
+      "path": "select/07_HandClap_Fitz_and_The_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HandClap (Willy Joy Remix)",
+      "artist": "Fitz and The Tantrums",
+      "has_synced": false,
+      "path": "select/08_HandClap_(Willy_Joy_Remix)_Fitz_and_The_Tantrums.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fitz and the Tantrums - HandClap [Official Video]",
+      "artist": "Fitz and the Tantrums",
+      "has_synced": true,
+      "path": "select/09_Fitz_and_the_Tantrums_-_HandClap_[Official_Video]_Fitz_and_the_Tantrums.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "HandClap (Myles Travitz Remix)",
+      "artist": "Fitz and The Tantrums",
+      "has_synced": false,
+      "path": "select/10_HandClap_(Myles_Travitz_Remix)_Fitz_and_The_Tantrums.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hand Clapping Rhumba",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_01_Hand_Clapping_Rhumba_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "HandClap",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_02_HandClap_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "HandClap",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_03_HandClap_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Hand Clapping Rhumba",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_04_Hand_Clapping_Rhumba_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Handclap",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_05_Handclap_大滝_詠一.txt"
+    }
+  ]
+}
